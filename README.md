@@ -26,3 +26,8 @@ Blue: [D,F,I,N,S], Green: ['BIH', 'GEO', 'ISR', 'MNE', 'SRB', 'CHE', 'TUR', 'UKR
 
 
 Finally you are required to collate the separate graph into one single graph for printing, the single graph should be visible when copy pasted in a long bond paper.
+
+
+# Documentation
+
+
